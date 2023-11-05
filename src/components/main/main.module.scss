@@ -1,0 +1,12 @@
+.main {
+	width: 764px;
+	margin: 0 auto;
+	display: flex;
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+}
+
+@import "media";
